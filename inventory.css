@@ -1,0 +1,29 @@
+
+h1{
+    color: #fabf39;
+    text-align: center;
+    font-size: xxx-large;
+}
+h3{
+    text-align: center;
+}
+li{
+    float: left;
+    list-style-type: none;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+body{
+    background-image: url("images/home.jpg");
+    background-size: auto;
+}
+li a{
+      padding: 55px;
+      display: compact;
+      text-decoration: none;
+    color: #8dbda3;
+}
+li a:hover {
+    color: blue;
+}

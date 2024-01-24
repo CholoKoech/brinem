@@ -1,0 +1,84 @@
+
+h1{
+    color: #ff7200;
+    text-align: center;
+    font-size: xxx-large;
+}
+h3{
+    font-family: "Bitstream Charter";
+    font-size: x-large;
+    color: #ff7200;
+    text-align: center;
+
+}
+li{
+    list-style-type: none;
+    float: left;
+    padding: 15px;
+    margin: 0;
+}
+body{
+    background-image: url("images/h1.png");
+    background-size: auto;
+}
+.srch{
+    font-family: 'Times New Roman';
+    width: 200px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid #ff7200;
+    margin-top: 13px;
+    color: #fff;
+    border-right: none;
+    font-size: 16px;
+    float: left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    margin-top: 13px;
+    color: #fff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
+.btn:hover{
+    color: #000;
+}
+
+.btn:focus{
+    outline: none;
+}
+
+.srch:focus{
+    outline: none;
+}
+li a{
+      padding: 55px;
+      display: block;
+      text-decoration: none;
+    color: #ff7200;
+}
+li a:hover {
+    color: blue;
+}
+body ol li{
+    text-decoration-color: #fabf39;
+}
+h4{
+    font-family: "Bitstream Charter";
+    font-size: large;
+    color: #ff7200;
+    text-align: center;
+}
+h4:hover{
+    color: #1db01d;
+    font-family: "Abyssinica SIL";
+}
